@@ -10,7 +10,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@optique/core": "^0.3.0",
-    "@optique/run": "^0.3.0"
+    "@optique/core": "^0.4.0",
+    "@optique/run": "^0.4.0"
   }
 }
