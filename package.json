@@ -1,0 +1,16 @@
+{
+  "name": "togl",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@optique/core": "^0.3.0",
+    "@optique/run": "^0.3.0"
+  }
+}
